@@ -1,0 +1,23 @@
+{
+  "name": "be_e_commerce",
+  "version": "1.0.0",
+  "description": "A backend of an e-commerce application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt",
+    "mongoose",
+    "express",
+    "nodemon"
+  ],
+  "author": "Rishikesh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1"
+  }
+}
